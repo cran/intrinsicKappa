@@ -1,0 +1,13 @@
+74034b3d72ca00c8a1e3fa56b53b99cd *DESCRIPTION
+7912413a6b9170ccbb6d8c1057568d52 *NAMESPACE
+64391a61f562a054b5db82860402d724 *R/intrinsicKappa.R
+bf4aabf28431e483a66c10d4c1226c98 *R/packageDescription.R
+2274b834ec2970c8ba130533f38c10ad *build/vignette.rds
+a66302eef9674c659d476e68e9ccfeb8 *inst/CITATION
+bcc2c8d5a871bd1b1b5acb33f6920673 *inst/doc/intrinsicKappa.R
+a3970780398bfeb899d330f55d769d45 *inst/doc/intrinsicKappa.Rmd
+5701d46d53b62eff03e5bcb0dbce7ff7 *inst/doc/intrinsicKappa.html
+45d52f315034dcc7434770bf3a0664bf *man/computeStat.Rd
+a60bb94a5d258989ddd2248f7bc4dd88 *man/intrinsicKappa-package.Rd
+197aad15fb78c847f155e52c7095d436 *man/intrinsicKappa.Rd
+a3970780398bfeb899d330f55d769d45 *vignettes/intrinsicKappa.Rmd
